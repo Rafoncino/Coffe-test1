@@ -141,3 +141,83 @@ body {
     padding: 0 250px;
     margin-bottom: 35px;
 }
+
+.Coffee-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
+.coffee-1{
+    padding: 0 50px;
+}
+
+.coffee-1 img{
+    width: 200px;
+}
+
+
+.Coffee-img{
+    position: absolute;
+    top: o;
+    right: 0;
+}
+
+.coffee-1 h3 {
+    color: #323337;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.Servicios {
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.397),
+        rgba(0, 0, 0, 0.397)),
+        url(images/bg2.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px;
+}
+
+.Servicios h2 {
+    color:aliceblue;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+.Servicios-content {
+    text-align: center;
+}
+
+.Servicios-content h2 {
+    font-size: 55px;
+    line-height: 70px;
+    color: #dbdde6;
+    text-transform: uppercase;
+    padding: 0 250px;
+    margin-bottom: 15px;
+}
+
+.Servicios-group {
+    font-size: 24px;
+    line-height: 60px;
+    color: #cacbcf;
+    justify-content: space-between;
+    padding: 0 250px;
+    margin-bottom: 15px;
+}
+
+.Servicios-content p {
+    color: #ebeaea;
+}
+
+.servicios-1 img {
+    width: 80px;
+}
+
+.Servicios-group {
+    display: flex;
+    justify-content: space-between;
+}
